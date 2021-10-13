@@ -14,7 +14,7 @@ The parts required for the buzzer are:
 
 Here is the wiring diagram:
 
-![fritzing image](images/fritzig_wire.png)
+![fritzing image](images/fritzing_wire.png)
 
 A few things to note:
 
