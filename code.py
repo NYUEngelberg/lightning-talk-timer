@@ -91,7 +91,7 @@ def color_chase(color, wait):
     #time.sleep(1)
 
 while True:
-    if button.value: #if button is pushed
+    if not button.value: #if button is pushed
 
         #green during the first ~40 seconds? (need to update time for all of this)
         pixels.fill(GREEN)
