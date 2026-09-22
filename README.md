@@ -12,9 +12,21 @@ The parts required for the buzzer are:
 * A strip of neopixels
 * A power source (we used a USB power brick in order to make it portable)
 
+Connections are to (clockwise with the usb connector at 12):
+
+A2
+GND
+VOUT
+A5
+GND
+
 Here is the wiring diagram:
 
 ![fritzing image](images/fritzig_wire.png)
+
+And a close up image of the circuit playground (the connections at A5 and the GND next to the A2 pin are easy to miss):
+
+![close up image of the circuit playground connections listed above](images/play_image.png)
 
 A few things to note:
 
